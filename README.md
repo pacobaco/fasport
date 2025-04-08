@@ -1,11 +1,3 @@
-project/
-├── README.md
-├── social_media_fetch.py
-├── social_media_data.json  # Optional preloaded sample data
-├── requirements.txt
-└── utils/
-    └── simulated_data.py
-
 # --- README.md ---
 
 # Social Media Integration Platform
